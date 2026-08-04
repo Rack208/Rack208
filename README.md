@@ -137,6 +137,20 @@ Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI 
 - AI-based Decision Making
 
 ---
+## 🏢 BICS GLOBAL
+
+**Offline Data Science Internship**
+**June 2026 – July 2026**
+
+- Developed a Smart Crop Yield Prediction System (AgriVision AI).
+- Built and integrated Machine Learning models for crop yield prediction.
+- Applied data preprocessing, feature engineering, and model evaluation.
+- Designed a responsive web application using React and Flask.
+- Implemented XGBoost for high-accuracy prediction.
+- Developed dashboards and prediction analytics.
+- Worked on real-world agricultural datasets.
+
+---
 
 # 📜 Certifications
 
@@ -170,27 +184,9 @@ Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI 
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rack208&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rack208&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rack208&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -202,15 +198,6 @@ Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rack208&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
-
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -240,7 +227,7 @@ Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI 
 
 <h3 align="center">
 
-"Success is where preparation meets opportunity."
+"Fall seven times, stand up eight."
 
 </h3>
 

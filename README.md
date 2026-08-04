@@ -59,21 +59,12 @@ Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="55"/>
 
 <img src="https://cdn.simpleicons.org/canva/00C4CC" width="55"/>
 
 <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="55"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
 
 </p>
 

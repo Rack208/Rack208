@@ -50,21 +50,40 @@ Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI 
 </table>
 
 ---
-
 # 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" alt="Java"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="60" alt="Power BI"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="55"/>
+<a href="https://www.canva.com/" target="_blank">
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="60" alt="Canva"/>
+</a>
 
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="55"/>
+</p>
 
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="55"/>
+<p align="center">
+
+<b>Python</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Java</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Power BI</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Canva</b>
 
 </p>
 

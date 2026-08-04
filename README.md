@@ -1,14 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=✨+Welcome+To+My+GitHub!;🤖+AI+%26+Data+Science+Student;📊+Future+Data+Analyst;🚀+Building+AI+Powered+Solutions)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=✨+Welcome+To+My+GitHub!;🤖+Artificial+Intelligence+%26+Data+Science+Student;📊+Future+Data+Analyst;🚀+Building+AI+Powered+Solutions)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# 👋 Hi, I'm Rackshitha R
+<h1 align="center">Hi 👋, I'm Rackshitha R</h1>
 
-🎓 **B.Tech Artificial Intelligence & Data Science Student**
+<h3 align="center">
+Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI Learner
+</h3>
 
-💡 Passionate about **Artificial Intelligence, Data Analytics, Machine Learning, Power BI and Business Intelligence.**
+<p align="center">
 
-📊 I enjoy transforming raw data into meaningful insights and developing intelligent solutions for real-world problems.
+<img src="https://komarev.com/ghpvc/?username=Rack208&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -16,25 +21,28 @@
 
 <table>
 <tr>
-<td width="120">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="110"/>
+<td width="130">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120"/>
 
 </td>
 
 <td>
 
-🎓 B.Tech AI & Data Science Student
+🎓 B.Tech Artificial Intelligence & Data Science Student
+
+🏫 Panimalar Engineering College
 
 📍 Chennai, Tamil Nadu
 
-💻 Passionate about AI & Analytics
+📊 Passionate about Data Analytics & Artificial Intelligence
 
-📈 Interested in Data Analytics & Business Intelligence
+💻 Interested in Machine Learning, SQL & Power BI
 
-🌱 Currently Learning Machine Learning, SQL & Power BI
+🚀 Love solving real-world business problems using Data
 
-🚀 Always excited to build innovative AI projects
+🌱 Currently improving my Python & Data Analytics skills
 
 </td>
 
@@ -43,7 +51,7 @@
 
 ---
 
-# 🛠 Skills & Tools
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -75,44 +83,44 @@
 
 ## 🌱 AI-Based Crop Recommendation System
 
-✔ CNN & LSTM Hybrid Model
+✔ CNN + LSTM Hybrid Model
 
-✔ Weather Forecasting
+✔ Weather Prediction
 
 ✔ Soil Analysis
 
-✔ Market Demand Prediction
+✔ Market Demand Analysis
 
-✔ Precision Agriculture
+✔ Smart Agriculture
 
 ---
 
 ## 📦 Dynamic Inventory Reallocation System
 
-✔ Demand Forecasting
-
 ✔ Inventory Optimization
+
+✔ Demand Forecasting
 
 ✔ Business Analytics
 
 ✔ Power BI Dashboard
 
-✔ KPI Based Decision Making
+✔ KPI-Based Decision Making
 
 ---
 
 # 💼 Internship Experience
 
-## 📊 Data Analytics Internship
+## 📊 TANSAM
 
-**TANSAM**
+### Data Analytics using Siemens MindSphere & Power BI
 
 - Data Cleaning
 - Data Transformation
-- Dashboard Development
 - SQL Analysis
-- Power BI Reports
-- Siemens MindSphere Technology
+- Dashboard Creation
+- Power BI Reporting
+- Excel Analytics
 
 ---
 
@@ -126,19 +134,19 @@
 
 - Machine Learning Concepts
 
-- Applied AI Solutions
+- AI-based Decision Making
 
 ---
 
 # 📜 Certifications
 
-🏅 Oracle Certified Foundations Associate
+🏆 Oracle Certified Foundations Associate
 
-🏅 Infosys – Artificial Intelligence for All
+🏆 Infosys Artificial Intelligence for All
 
-🏅 NASSCOM – Python Fundamentals
+🏆 NASSCOM Python Fundamentals
 
-🏅 NPTEL – Python for Data Science
+🏆 NPTEL Python for Data Science
 
 ---
 
@@ -148,27 +156,27 @@
 
 🏫 Panimalar Engineering College
 
-📈 CGPA **8.3**
+📈 CGPA : **8.3**
 
 ---
 
-# 🌍 Languages
+# 🌎 Languages
 
-• English
+✔ English
 
-• Tamil
+✔ Tamil
 
-• Kannada
+✔ Kannada
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rack208&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rack208&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -178,17 +186,27 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rack208&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rack208&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rack208&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"/>
 
 </p>
 
@@ -196,30 +214,46 @@
 
 # 🌐 Connect With Me
 
-📧 Email
+<p align="center">
 
-**saranrackshitha0806@mail.com**
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-💼 LinkedIn
+<a href="YOUR_HACKERRANK_URL">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
-https://www.linkedin.com/
+<a href="mailto:saranrackshitha0806@mail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 HackerRank
+<a href="https://github.com/Rack208">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-https://www.hackerrank.com/
-
-🐙 GitHub
-
-https://github.com/YOUR_USERNAME
+</p>
 
 ---
 
 # 💭 Quote
 
-> **"Success is where preparation and opportunity meet."**
+<h3 align="center">
+
+"Success is where preparation meets opportunity."
+
+</h3>
 
 ---
 
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Thanks+For+Visiting!;Let's+Build+Something+Amazing!;⭐+Star+My+Repositories)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=✨+Thanks+For+Visiting!;Let's+Connect+and+Build+Amazing+Projects!;⭐+Happy+Coding!)](https://git.io/typing-svg)

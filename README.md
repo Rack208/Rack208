@@ -199,29 +199,12 @@ Artificial Intelligence & Data Science Student | Data Analytics Enthusiast | AI 
 ---
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="mailto:saranrackshitha0806@mail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Rack208">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
+- 💻 GitHub: https://github.com/Rack208
+- 💼 LinkedIn: https://www.linkedin.com/in/rackshitha-r-882539328?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💻 HackerRank: https://www.hackerrank.com/profile/Rackshitha08
+- 📧 Email: saranrackshitha0806@mail.com
 
 # 💭 Quote
 
